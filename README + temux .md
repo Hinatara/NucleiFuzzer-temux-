@@ -1,6 +1,3 @@
-<think>
-
-Here's a polished and complete `README.md` for your GitHub repository:
 
 ```markdown
 # NucleiFuzzer on Termux (No Root Required)
